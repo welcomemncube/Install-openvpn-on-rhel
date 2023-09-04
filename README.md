@@ -6,7 +6,7 @@
 ` dnf install lz4-devel`  
 ` dnf install lzo-devel`  
 ` dnf install pam-devel`  
-## The download the from tar file from the official OpenVPN site:  
+## Then download the tar file from the official OpenVPN site:  
 https://openvpn.net/community-downloads/  
 ` tar -xvf openvpn-2.6.6.tar.gz`  
 ` cd openvpn-2.6.6`  
