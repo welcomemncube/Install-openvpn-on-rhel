@@ -16,5 +16,6 @@ https://openvpn.net/community-downloads/
 ` cd openvpn-2.6.6`  
 ` make`  
 ` make install`
+https://community.openvpn.net/openvpn/wiki/OpenvpnSoftwareRepos
 
 
