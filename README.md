@@ -7,6 +7,7 @@
 ` dnf install lzo-devel`  
 ` dnf install pam-devel` 
 ` sudo dnf install openvpn`
+
 https://www.looklinux.com/how-to-upgrade-openssl-on-rhel-and-centos-operating-systems/
 ln -s libssl.so.3 libssl.so
 sudo ldconfig
