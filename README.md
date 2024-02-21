@@ -7,6 +7,8 @@
 ` dnf install lzo-devel`  
 ` dnf install pam-devel`  
 https://www.looklinux.com/how-to-upgrade-openssl-on-rhel-and-centos-operating-systems/
+ln -s libssl.so.3 libssl.so
+sudo ldconfig
 
 ## Then download the tar file from the official OpenVPN site:  
 https://openvpn.net/community-downloads/  
