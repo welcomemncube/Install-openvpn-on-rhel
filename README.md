@@ -12,3 +12,5 @@ https://openvpn.net/community-downloads/
 ` cd openvpn-2.6.6`  
 ` make`  
 ` make install`
+
+https://www.looklinux.com/how-to-upgrade-openssl-on-rhel-and-centos-operating-systems/
